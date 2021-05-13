@@ -1,1 +1,3 @@
-# HTML-JS-CSS_web_DEV
+# HTML-JS-CSS_Web_DEV
+
+Coding Assignemnet for Module 2
